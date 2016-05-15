@@ -17,3 +17,5 @@ Xcode is needed for running that.
 ```yml
 script: ./swiftlint/bin/swiftlint lint
 ```
+
+[Build log](https://travis-ci.org/norio-nomura/CommitSwiftLintExecutable)
